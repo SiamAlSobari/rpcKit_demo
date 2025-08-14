@@ -26,6 +26,7 @@
 					</form>
 					<button
 						class="rounded-md bg-purple-500 px-4 py-2 text-white transition-colors hover:bg-purple-600"
+						onclick={() => goto('/anime')}
 					>
 						Lihat
 					</button>
